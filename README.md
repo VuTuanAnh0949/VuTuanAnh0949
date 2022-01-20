@@ -152,17 +152,7 @@ namespace VTA
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
 
-## <p align="center">Repository pin 📌</p>
 
-<p align="center">	
-<a href="https://github.com/VuTuanAnh0949/My-Information">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/VuTuanAnh0949/Web-Demo-The-Band">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
 
 ## <p align="center">Github Contributions 📈</p>
 
