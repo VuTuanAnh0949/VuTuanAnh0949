@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/VuTuanAnh0949">
-	<img src="https://www.facebook.com/photo.php?fbid=279922553272034&set=pb.100037628748209.-2207520000..&type=3" width = "200" alt="VTA">
+	<img src="https://avatars.githubusercontent.com/u/91420027?v=4" width = "200" alt="VTA">
 	</a>
 </p>
 
