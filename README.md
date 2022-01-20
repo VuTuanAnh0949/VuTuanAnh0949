@@ -9,9 +9,9 @@
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace VTA
 {
-    class ngoctienTNT
+    class tuanAnhVTA
     {
         static void Main(string[] args)
         {
