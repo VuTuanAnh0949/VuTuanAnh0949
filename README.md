@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/VuTuanAnh0949">
-	<img src="https://www.facebook.com/photo/?fbid=605582940705992&set=a.107477813849843" width = "200" alt="VTA">
+	<img src="https://www.instagram.com/p/CBx9MsUlIL4efk0NzSsEC-6CppPvlFdJM6kzfw0/" width = "200" alt="VTA">
 	</a>
 </p>
 
