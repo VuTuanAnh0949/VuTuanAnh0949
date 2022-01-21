@@ -19,7 +19,7 @@ namespace VTA
             string Age = "2003";
             string Gender = "Male";
             string Address = "Cà mau, Việt Nam";
-            string University = "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - CTUT";
+            string University = "Trường Đại Học Kỹ Thuật Công Nghệ Cần Thơ - CTUT";
             string Skills = "C, C#, Java, HTML, CSS, JavaScript";
             string FamousQuotes = "Chẳng mong cuộc đời không sóng gió, chỉ mong đủ sức để vượt qua";
         }
@@ -147,13 +147,7 @@ namespace VTA
 
 ## <p align="center">Github Contributions 📈</p>
 
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
-<p>
 
-<hr>
-<br>
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
