@@ -134,9 +134,6 @@ namespace VTA
   </tbody>
 </table>
 
-## <p align="center">Visitor's count :eyes:</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
@@ -147,12 +144,6 @@ namespace VTA
 ## <p align="center">Top langs :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
-
-## <p align="center">Profile stats :musical_keyboard:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
-
-
 
 ## <p align="center">Github Contributions 📈</p>
 
