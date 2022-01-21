@@ -21,7 +21,7 @@ namespace VTA
             string Address = "Cà mau, Việt Nam";
             string University = "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - CTUT";
             string Skills = "C, C#, Java, HTML, CSS, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string FamousQuotes = "Chẳng mong cuộc đời không sóng gió, chỉ mong đủ sức để vượt qua";
         }
     }
 }
