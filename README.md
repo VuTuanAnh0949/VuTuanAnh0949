@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VuTuanAnh0949&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=VuTuanAnh0949&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
